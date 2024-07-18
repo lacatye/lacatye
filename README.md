@@ -1,7 +1,7 @@
 <h2 align="left">Oiee 👋! Eu sou a Thaly</h2>
 
 <br>
-<div align="center">
+<div>
   <p>Sou uma desenvolvedora de software iniciante, apaixonada por tecnologia e inovação. Minhas principais habilidades estão focadas em desenvolvimento mobile e back-end. Meu maior objetivo é contribuir de forma positiva no dia a dia das pessoas através da tecnologia.</p>
   <p>Me considero criativa e gosto de inovar. Quero aprender e aprimorar cada vez mais as minhas habilidades. Vamos nos conectar? ❤</p>
 </div>
@@ -38,14 +38,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
   </div>
 </div>
+<br>
+<h3>📘 Currently learning</h3>
+● API REST <br>
+● API Reativa <br>
+● CRUD com flutter <br>
+● Firebase com flutter <br>
+<br>
 
-###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lacatye&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lacatye&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-</div>
-
-###
