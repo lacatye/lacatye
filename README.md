@@ -3,8 +3,7 @@
 <br>
 <div align="center">
   <p>Sou uma desenvolvedora de software iniciante, apaixonada por tecnologia e inovação. Minhas principais habilidades estão focadas em desenvolvimento mobile e back-end. Meu maior objetivo é contribuir de forma positiva no dia a dia das pessoas através da tecnologia.</p>
-  <p>Me considero criativa e gosto de inovar.</p>
-  <p>Quero aprender e aprimorar cada vez mais as minhas habilidades. Vamos nos conectar? ❤</p>
+  <p>Me considero criativa e gosto de inovar. Quero aprender e aprimorar cada vez mais as minhas habilidades. Vamos nos conectar? ❤</p>
 </div>
 
 <br clear="both">
